@@ -1,6 +1,6 @@
-# Turborepo react-native starter
+# N E O N A V   T U R B O
 
-This is an official starter Turborepo.
+This is a monorepo of turborepo using the with-react-native offical starter to bundle all NeoNav clients for web and mobile in to one repo. Simple, right?
 
 ## What's inside?
 
@@ -23,13 +23,6 @@ This Turborepo has some additional tools already setup for you:
 - [TypeScript](https://www.typescriptlang.org/) for static type checking
 - [Prettier](https://prettier.io) for code formatting
 
-## Using this example
+## Development
 
-Run the following command:
-
-```sh
-npx degit vercel/turbo/examples/with-react-native-web with-react-native-web
-cd with-react-native-web
-yarn install
-git init . && git add . && git commit -m "Init"
-```
+TBD!
