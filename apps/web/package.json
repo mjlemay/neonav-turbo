@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/jura": "^4.5.12",
+    "@fontsource/roboto": "^4.5.8",
     "lodash": "^4.17.21",
     "next": "latest",
     "react": "18.2",
