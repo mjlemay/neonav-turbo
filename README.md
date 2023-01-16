@@ -1,4 +1,4 @@
-# N E O N A V   T U R B O
+# N E O N A V • T U R B O
 
 This is a monorepo of turborepo using the with-react-native offical starter to bundle all NeoNav clients for web and mobile in to one repo. Simple, right?
 
