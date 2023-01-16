@@ -14,7 +14,7 @@ export interface ButtonProps {
 export function Button({ text, onClick }: ButtonProps) {
   return (
     <TouchableOpacity style={styles.button} onPress={onClick}>
-      <Text style={styles.text}>{text}</Text>
+      <Text style={styles.text}><Text style={{fontFamily: 'Jura'}}>{text}</Text></Text>
     </TouchableOpacity>
   );
 }
@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     paddingLeft: 30,
     paddingRight: 30,
     fontSize: "15px",
-    backgroundColor: "#2f80ed",
+    backgroundColor: "#7a04eb",
   },
   text: {
     color: "white",

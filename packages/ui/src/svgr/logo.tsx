@@ -4,8 +4,8 @@ import Svg, { SvgProps, Path } from "react-native-svg";
 export const Logo = (props: SvgProps) => (
   <Svg
     viewBox="0 0 100 100"
-    width={24}
-    height={24}
+    width={100}
+    height={100}
     {...props}
   >
     <Path

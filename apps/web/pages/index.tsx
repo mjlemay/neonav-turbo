@@ -6,7 +6,7 @@ export default function Web() {
   return (
     <div className={styles.container}>
       <Logo />
-      <h1>Web</h1>
+      <h1>NeoNav Status</h1>
       <Button onClick={() => console.log("Pressed!")} text="Boop" />
     </div>
   );
